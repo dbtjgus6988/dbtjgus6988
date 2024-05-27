@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @dbtjgus6988
+# 👋 Hi, I’m shwolliw(@dbtjgus6988)
 - 👀 I’m interested in HCI, RecSys, AI(NLP, CV)
 - 🌱 I’m currently learning HCI, RecSys, NLP, CV
 - 📫 How to reach me : dbtjgus69@hanyang.ac.kr / dbtjgus69@naver.com

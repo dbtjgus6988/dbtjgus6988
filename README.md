@@ -15,7 +15,7 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%Colab-F9AB00?style=flat-square&logo=Google%Colab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%Premiere%Pro-9999FF?style=flat-square&logo=Adobe%Premiere%Pro&logoColor=white)
 
 

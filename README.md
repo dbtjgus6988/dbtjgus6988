@@ -1,13 +1,23 @@
-### 👋 Hi, I’m @dbtjgus6988
-- 👀 I’m interested in Data mining, RecSys, AI(NLP, CV)
-- 🌱 I’m currently learning RecSys, NLP, CV
+# 👋 Hi, I’m @dbtjgus6988
+- 👀 I’m interested in HCI, RecSys, AI(NLP, CV)
+- 🌱 I’m currently learning HCI, RecSys, NLP, CV
 - 📫 How to reach me : dbtjgus69@hanyang.ac.kr / dbtjgus69@naver.com
-- 💻 Technology Stack : [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+
+# 💪Skills
+### Technology Stack 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![GeoPandas](https://img.shields.io/badge/GeoPandas-43B02A?style=flat-square&logo=GeoPandas&logoColor=green
 )](https://geopandas.org/en/stable/getting_started/introduction.html) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white)
+
 
 <a href="https://www.instagram.com/shwolliw/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!---

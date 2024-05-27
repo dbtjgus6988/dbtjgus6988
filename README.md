@@ -19,7 +19,9 @@
 ![Google Colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/AdobePremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white)
 
-
+# ☎️Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbtjgus69@hanyang.ac.kr)](mailto:dbtjgus69@hanyang.ac.kr)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dbtjgus69@naver.com)](mailto:dbtjgus69@naver.com)
 <a href="https://www.instagram.com/shwolliw/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!---
 dbtjgus6988/dbtjgus6988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
